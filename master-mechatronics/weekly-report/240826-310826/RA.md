@@ -69,9 +69,9 @@ En el reporte anterior se contemplaron diversas actividades en general a realiza
 
 ## 7. Notas
 
-Se estarán subiendo presentaciones con resúmenes de los temas relacionados.
+>Se estarán subiendo presentaciones con resúmenes de los temas relacionados.
 
-## 8. Referencias
+## 8. Referencias y recursos
 
 [Planning Wiki](https://planning.wiki/)  
 [Getting Started with PDDL](https://fareskalaboud.github.io/LearnPDDL/)  
