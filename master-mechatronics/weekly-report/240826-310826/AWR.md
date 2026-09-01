@@ -13,9 +13,9 @@ El presente reporte tiene por objetivo describir las actividades realizadas para
 
 | Actividad | Objetivo |
 |-------------|---------------|
-| Investigación sobre PDDL | Conocer los fundamentos de PDDL y describir cómo es utilizado para la representación de problemas de planificación. |
-| Investigación sobre PlanSys2 | Identificar sus componentes principales y su relación con los sistemas robóticos. |
-| Aprendizaje de Python | Fortalecer las habilidades en el lenguaje para su aplicación en futuras actividades. |
+| Investigación sobre PDDL | Conocer los fundamentos de PDDL y describir cómo es utilizado para la representación de problemas de planificación |
+| Investigación sobre PlanSys2 | Identificar sus componentes principales y su relación con los sistemas robóticos |
+| Aprendizaje de Python | Fortalecer las habilidades en el lenguaje para su aplicación en futuras actividades |
 
 ## 3. Estado actual de las actividades
 
@@ -56,8 +56,8 @@ Actualmente, se continúa estableciendo y siguiendo una ruta de estudio que perm
 
 En el reporte anterior se contemplaron diversas actividades en general a realizar. Para el presente reporte, se indican únicamente aquellas que se tienen previstas para el periodo comprendido del 31/08/2026 al 07/09/2026.
 
-- Estudiar los fundamentos de planificación automática.
-- Comprender qué es PDDL y revisar la estructura básica de un dominio y problema.
+- Estudiar los fundamentos de planificación automática
+- Comprender qué es PDDL y revisar la estructura básica de un dominio y problema
 
 ## 6. Cuadro de actividades
 
